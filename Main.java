@@ -4,6 +4,7 @@ public class Main
 {
     public static void main (String args[])
     {
+
         int oberGrenze = 100;
         BigInteger mult = new BigInteger("1");
         //double mult = 1;
